@@ -5,7 +5,7 @@
 # Pathberries AI
 
 
-### :rocket: At Pathberrries we are into building something disruptive and amazing, probably revolutionalizing something you never thought of.
+### :rocket: At Pathberrries we are into building disruptive tech, probably revolutionalizing something you never thought of.
 
 ### :rocket: Our cross-platform software is scalable and compatible with all web and mobile devices. We develop reliable and optimal solutions where we focus data privacy and application usality.
 
